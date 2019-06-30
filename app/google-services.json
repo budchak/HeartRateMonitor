@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891221301523",
+    "firebase_url": "https://hert-rate-yarishevich.firebaseio.com",
+    "project_id": "hert-rate-yarishevich",
+    "storage_bucket": "hert-rate-yarishevich.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891221301523:android:6f6a3e212ffff231",
+        "android_client_info": {
+          "package_name": "com.java.yaroshevich.heartRateMonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891221301523-kc9bhtmpmbbqqnqjod5gba89ao1kqror.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.java.yaroshevich.heartRateMonitor",
+            "certificate_hash": "dc1e8607c46f1e023e827d21f1def5e4269099a0"
+          }
+        },
+        {
+          "client_id": "891221301523-297hau58gocuh6mcdqq4tpn1uugdjvpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUklvhh_81l9x2cj66YMgOS5xRaeWdInE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891221301523-297hau58gocuh6mcdqq4tpn1uugdjvpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
